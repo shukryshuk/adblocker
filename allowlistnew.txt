@@ -14,10 +14,6 @@
 18.foxaholic.com
 1822direkt-banking.de
 1822direkt.de
-192.168.1.1
-192.168.178.1
-192.168.2.1
-194.105.148.87
 1c.premierzal.ru
 1drv.com
 1kinobig.ru
